@@ -4,7 +4,7 @@
 - 🧬 Background on the project <br/>
       RNA binding proteins (RBPs) tightly regulate splicing in cells. Loss of function of TDP-43, an RBP, results in cryptic splicing leading to inclusion of cryptic exons. TDP-43 proteinopathy is a well-known trait       of neurodegenerative diseases such as Amyotrophic lateral sclerosis (ALS) and Frontotemporal dementia (FTD). This project is trying to determine if there are more SNPs within neurodegenerative disease risk           genes and are they affecting inclusion of cryptic exons? Data visualizations can be seen on my github.io : https://hwhiteley.github.io/ .
 - 💡 My interests include tidying data and visualisation, particularly working with health data due to my background in biology BSc (Hons) Biomedical Science.
-- 🖥️ Seeking a full time role from September 2024 in data analysis/business analysis/project management.
+- 🖥️ Seeking a full time role from September 2024 where I can leverage my academic skills in a proffesional environment.
 
 - Check out some of my work: https://hwhiteley.github.io/
 <!---
